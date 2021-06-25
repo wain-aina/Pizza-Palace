@@ -79,6 +79,6 @@ $(document).ready(function() {
     event.preventDefault();
     var address = $("input#location").val();
     var newAddress = new Address(address);
-    $("#delivery-option").text("Your pizza will be delivered to: " + newAddress.deliveryAddress);
+    $("#delivery-option").text("Done!!!Your pizza will be delivered to: " + newAddress.deliveryAddress);
   });
 });
