@@ -3,7 +3,7 @@
     font-size: 2em;
 }
 body{
-    background-image: url(../css/wood.jpg);
+    background-image: url(..//images/wood.jpg);
     position: relative;
     background-repeat: no-repeat;
     background-size: cover;
@@ -103,7 +103,7 @@ h2 {
 }
 .banner{
     color: #FDB913;
-    background-image: url(../css/p4.jpg);
+    background-image: url(..//images/p4.jpg);
     height: 600px;
 }
 .banner h1{
