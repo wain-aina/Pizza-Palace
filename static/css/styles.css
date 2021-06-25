@@ -1,0 +1,53 @@
+.jumbtron>p, .page-header, #price-content>h1 {
+    font-family: 'Kaushan Script', cursive;
+    font-size: 2em;
+}
+body{
+    background-image: url(../css/wood.jpg);
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 14px;
+    line-height: 1.62em;
+    font-family: 'Brawler', serif;
+}
+.top {
+    background-color: black;
+    color:#FDB913;
+    height: 200px;
+    border-bottom: 5px solid #FDB913;
+}
+.jumbtron {
+    margin-right: 700px;
+    background-color: inherit;
+    color:  #FDB913;
+    margin-top: 60px;
+}
+.about {
+    text-align: center;
+    font-size: 1.25em;
+    font-weight: bold;
+    margin-left: 50px;
+    margin-right: 50px;
+    color:  #FDB913;
+}
+.card {
+    width: 80%;
+    min-height: 460px;
+    margin-top: 60px;
+    box-shadow: 0px 8px 60px -10px rgba(13, 28, 39, 0.6);
+    background: #fff;
+    border-radius: 12px;
+    max-width: 700px;
+    position: relative;
+    color:  #FDB913;
+}
+h2 {
+    text-align: center;
+    color: #FDB913
+}
+.order {
+    margin-left: 100px;
+    margin-right: 100px;
+    color: #FDB913
+  }
