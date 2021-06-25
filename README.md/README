@@ -1,0 +1,34 @@
+## Project name
+  Pizza Palace
+
+## Project Description
+  This is a website that allows you to buy or order pizza in accordance to your desires allowing one to choose different toppings, crust and size as well as calculating the cost and giving you the option to have the pizza delivered to your doorstep.You can also order as many pizzas as you want.
+
+## Author(s) information.
+  The programmer, Jessie Wainaina, is an upcoming software engineer with knowledge to share and a life to live to the fullest.
+
+## Setup instructions
+  -Enter the website.
+  -Choose the size of the pizza, toppings and type of crust.
+  -Choose whether or not you would like delivery.
+  -Proceed to checkout.
+  -Enjoy the pizza.
+
+## BDD.
+  The website allows you to order pizza based on your cravings and calculates the cost or sum total.
+
+## Known Bugs.
+  This code is bug-free. However, you are at liberty to make changes to  make the code better to your liking.
+
+## Technologies used.
+  -HTML
+  -CSS
+  -JAVASCRIPT
+  -BOOTSTRAP
+  -JQUERY
+
+## Contact information.
+  Email: jesse.wainaina@student.moringaschool.com
+
+## Link
+  View [Live](https://wain-aina.github.io/Pizza Palace/)
